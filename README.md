@@ -10,11 +10,11 @@ I am always looking for new challenges and opportunities to grow as a developer 
 
 #### Projects
 
-- Robotics Project: An autonomous localisation and and object detection mobile Robot simulation using Ros2 and Gazebo [check it out.](https://www.google.com)
+- Robotics Project: An autonomous localisation and and object detection mobile Robot simulation using Ros2 and Gazebo [check it out.](https://github.com/Kamurasi-Jordan-Arthur/RObotics_Year2)
 - Emebede systems Project: A simulation of the fundamental processes required in egg incubation using tinkercard. [check it out.](https://www.google.com)
 - Agri-Sonic-Farmer’s-Aid Project: An Inter-diplinary project aimed at aiding local farmers use technological approahes in crop and disease prediction using ML, soil nuitrient detemination using emebeded systems and famers liasoning through mobile application intergration. [check it out.](https://www.google.com)
-- Software development project: A mobile appication enabling for user income ,expenditure categorization, budget(planing), and data visualisation, using Flutter.[check it out.](https://www.google.com)
-- Library Management System Project: A simple library management system using Django, allowing libralians and users to manage books, borrowers, borrowing- policy , and and tracking. [check it out.](https://www.google.com)
+- Software development project: A mobile appication enabling for user income ,expenditure categorization, budget(planing), and data visualisation, using Flutter.[check it out.](https://github.com/Kamurasi-Jordan-Arthur/Budget-App)
+- Library Management System Project: A simple library management system using Django, allowing libralians and users to manage books, borrowers, borrowing- policy , and and tracking. [check it out.](https://github.com/Kamurasi-Jordan-Arthur/Group-K-Deployment)
 
 #### Skills
 
