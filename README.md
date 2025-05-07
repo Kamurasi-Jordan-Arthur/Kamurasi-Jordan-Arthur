@@ -41,7 +41,8 @@ I am always looking for new challenges and opportunities to grow as a developer 
 
 - AI in Robotics
 - Data Science
-- Back-end Development
+- Back-end Dev
+- Embeded Software Dev
 - Reading
 
 Contact
